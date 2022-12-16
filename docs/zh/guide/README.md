@@ -65,4 +65,7 @@ category:
 
 ## 许可
 
-`AList` 是在 AGPL-3.0 许可下许可的开源软件。
+`AList` 是在 AGPL-3.0 许可下许可的开源软件
+
+
+主要内容看博客 [博客](https://official-regiment.gitee.io/zyblogz/)
